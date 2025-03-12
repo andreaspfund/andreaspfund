@@ -1,7 +1,5 @@
 # Hi there, I'm Andreas Pfund 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for open-source projects and a knack for solving complex problems. Here's a bit about me:
-
 🚀 System Engineer | IT Consultant | Microsoft & Cloud Expert
 I am a System Engineer with 5 years of experience in IT, specializing in Microsoft projects, particularly Exchange, SharePoint, and Azure. 
 Alongside my work, I am pursuing a Higher Education Diploma in Business Informatics, which I expect to complete in April 2026.
