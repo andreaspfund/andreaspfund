@@ -2,19 +2,16 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for open-source projects and a knack for solving complex problems. Here's a bit about me:
 
-## 🚀 About Me
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on open-source projects related to machine learning and artificial intelligence.
-- 💬 Ask me about anything related to Python, JavaScript, or web development.
-- 📫 How to reach me: [andreaspfund@example.com](mailto:andreaspfund@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and exploring the great outdoors.
+🚀 System Engineer | IT Consultant | Microsoft & Cloud Expert
+I am a System Engineer with 5 years of experience in IT, specializing in Microsoft projects, particularly Exchange, SharePoint, and Azure. 
+Alongside my work, I am pursuing a Higher Education Diploma in Business Informatics, which I expect to complete in April 2026.
 
-## 🛠️ Languages and Tools
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Technologies: HTML, CSS, React, Node.js, Django
-- Databases: MySQL, PostgreSQL, MongoDB
-- Tools: Git, Docker, Kubernetes, Jenkins
+## 🛠 My Expertise:
+- Microsoft Exchange & SharePoint – Migrations, administration & optimization
+- Microsoft Azure – Cloud strategies, security concepts & automation
+- IT Consulting – Analysis, planning & strategic IT solutions for SMBs
+- PowerShell & Automation – Enhancing efficiency through scripting
+- IT Security & Conditional Access – Securing Microsoft environments
 
 ## 📈 GitHub Stats
 ![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaspfund&show_icons=true&theme=radical)
