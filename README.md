@@ -15,8 +15,7 @@ Alongside my work, I am pursuing a Higher Education Diploma in Business Informat
 ![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaspfund&show_icons=true&theme=radical)
 
 ## 🏆 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andreaspfund&repo=awesome-project&theme=radical)](https://github.com/andreaspfund/awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andreaspfund&repo=another-cool-project&theme=radical)](https://github.com/andreaspfund/another-cool-project)
+
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/andreaspfund/)
