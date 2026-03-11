@@ -113,12 +113,16 @@ Automating repetitive tasks across the entire stack — from CI/CD pipelines to 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=andreaspfund&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=andreaspfund&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" />
+<a href="https://github.com/andreaspfund">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=andreaspfund&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" />
+</a>
+<a href="https://github.com/andreaspfund">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaspfund&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=6" />
+</a>
 
 <br>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaspfund&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=andreaspfund&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" />
 
 </div>
 
