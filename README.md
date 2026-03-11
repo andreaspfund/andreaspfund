@@ -17,7 +17,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
-name: Andreas Pfund
+name: Andy
 located_in: Switzerland
 focus:
   - AI & Machine Learning
